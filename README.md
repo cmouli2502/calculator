@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/chandramouli0888/CMAZ400Tst/_apis/build/status/cmouli2502.calculator?branchName=master)](https://dev.azure.com/chandramouli0888/CMAZ400Tst/_build/latest?definitionId=3&branchName=master)
+
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
