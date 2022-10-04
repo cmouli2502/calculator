@@ -249,7 +249,7 @@ describe('Arithmetic', function() {
           .expect(200)
           .end(function(err, res) {
               expect(res.body).to.eql({ result: null });
-              done();
+              done()+;
           });
     });
   });
